@@ -1,5 +1,5 @@
 # A version of the 2026CompetitiveConcept
-Our project will use MSKi4 Swerve and a custom vision system. 
+Our project will use MSKi4 Swerve and a custom vision system. This is the mentor code, which is how I (code mom) prepare for the season.
 
 This repository is based on the code for the WestCoast Products 2026 [Competitive Concept](https://wcproducts.com/pages/wcp-competitive-concepts).
 
